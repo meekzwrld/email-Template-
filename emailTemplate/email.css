@@ -1,0 +1,24 @@
+.container {
+    margin-top: 20px;
+    overflow:auto;
+    width:100vw;
+    height:100vh;
+}
+.two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    color: black;
+    height: 20%;
+    width: 50%;  
+    line-height: 60%;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    height: 40%;
+    width: 100%;
+}
